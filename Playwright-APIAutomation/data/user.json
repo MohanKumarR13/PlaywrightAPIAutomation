@@ -1,0 +1,15 @@
+{
+"name" : "Johnny",
+"email" : "johnny1@gmail.com",
+"gender" : "male",
+"status" : "active"
+
+}
+
+
+String responseJsonBody = "{\n" + 
+" \"name\" : \"testing\",\n" + 
+" \"email\" : \"test12@gmail.com\",\n"+
+" \"gender\" : \"male\",\n" +
+" \status\" : \"active\",\n" +
+"}";
